@@ -207,3 +207,18 @@ export const certifications = [
     image: "/assets/certificates/oracle-ai-foundations.jpg"
   }
 ];
+
+export const achievements = [
+  {
+    title: "DSA Summer Training",
+    description: "Completed intensive training in Data Structures and Algorithms, mastering complex problem-solving techniques.",
+    icon: "HiOutlineAcademicCap",
+    date: "Summer 2024"
+  },
+  {
+    title: "LeetCode Milestone",
+    description: "Successfully solved 150+ challenges on LeetCode, demonstrating strong algorithmic thinking and coding proficiency.",
+    icon: "SiLeetcode",
+    date: "Ongoing"
+  }
+];
