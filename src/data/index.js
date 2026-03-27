@@ -220,5 +220,11 @@ export const achievements = [
     description: "Successfully solved 150+ challenges on LeetCode, demonstrating strong algorithmic thinking and coding proficiency.",
     icon: "SiLeetcode",
     date: "Ongoing"
+  },
+  {
+    title: "24-Hour CTF Hackathon",
+    description: "Participated in an intensive 24-hour Capture The Flag competition, solving complex security challenges and vulnerability exploits.",
+    icon: "FaShieldAlt",
+    date: "2024"
   }
 ];
